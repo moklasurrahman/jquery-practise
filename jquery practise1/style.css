@@ -1,0 +1,9 @@
+.rip{
+    font-size: 50px;
+    color: rgb(80, 80, 79);
+    background-color: yellow;
+}
+
+.rip:hover{
+    background-color: red;
+}
